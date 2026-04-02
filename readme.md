@@ -10,6 +10,7 @@ RouteRush est un jeu éducatif de simulation de routage réseau développé en H
 ## Équipe
 
 |Membre|Classe|Contributions|
+
 [Mohamed Ali]Terminale NSIArchitecture du projet, algorithme de Dijkstra, définition des niveaux (LEVELS[])
 
 [Sakaiza Rajaofetra et Tiany Cerca]Terminale NSIMoteur de rendu canvas, animations, personnage Baymax, effets de particules
@@ -19,7 +20,6 @@ RouteRush est un jeu éducatif de simulation de routage réseau développé en H
 ## Installation
 
 open RouteRush.html
-python -m http.server 8000
 
 ## Structure du projet
 
