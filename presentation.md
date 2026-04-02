@@ -82,7 +82,7 @@ Le projet est une création originale. L'ensemble de la logique de jeu, de l'int
 
 Conformément aux règles du concours, l'équipe déclare avec transparence tous les usages de l'IA dans ce projet.
 
-Workik (Anthropic) — Aide au débogage (~30 % du code)
+Workik (Anthropic) — Aide au débogage (~40 % du code)
 •	Identification et correction d'un bug de recalcul du chemin optimal (G.optResult) lors de pannes dynamiques : le chemin n'était pas recalculé correctement si le nœud tombant était déjà dans la liste downNodes
 
 •	Aide à la correction du calcul du coût OSPF dans l'algorithme de Dijkstra (arrondis flottants)
@@ -92,7 +92,7 @@ Workik (Anthropic) — Aide au débogage (~30 % du code)
 •	Explication du fonctionnement de requestAnimationFrame et de la boucle d'animation pour synchroniser rendu et logique
 
 
-**IA conversationnelle — Reformulation pédagogique (\~9 % du contenu)**
+**IA conversationnelle — Reformulation pédagogique (\10 % du contenu)**
 
 *Les descriptions des protocoles RIP, OSPF et BGP affichées dans le guide d'aide ont été vérifiées et reformulées pour garantir leur exactitude technique. Les formulations originales ont été entièrement rédigées par l'équipe.
 
