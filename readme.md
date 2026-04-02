@@ -52,5 +52,7 @@ Journal d'événements horodaté, table de routage interactive, analyse lien par
 ## Technologies
 
 HTML5
+
 CSS3
+
 JavaScript (Canvas API, sans framework ni dépendance externe)
