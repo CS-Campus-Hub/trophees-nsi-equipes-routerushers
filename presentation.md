@@ -18,12 +18,7 @@ RouteRush est développé en un fichier HTML5 autonome, sans dépendance externe
 
 |Fichier|Rôle|
 |-|-|
-|main.py|Boucle principale, gestion de la carte, mouvements, états du jeu, Game Over|
-|level\_engine.py|Moteur commun à tous les niveaux : phases QUESTION / WRONG\_FLASH / LESSON / SCORE|
-|level\_bar.py|Niveau 1 — Bar du Détective Moreau (5 questions sur mots de passe, phishing)|
-|level\_hacker.py|Niveau 2 — Labo de Z3r0 (5 questions sur malwares, ransomware, vishing)|
-|level\_mafia.py|Niveau 3 — Repaire Don Rossi (5 questions sur firewall, OSINT, RGPD) + scène finale|
-|visual\_style.py|Tous les visuels dessinés en Python pur : personnages pixel-art, décors, HUD, bulles|
+RouteRush.html (avec le code) cela permet a visualiser le jeux mais aussi le code 
 
 ### Mécanique de jeu
 
@@ -105,11 +100,11 @@ Workik (Anthropic) — Aide au débogage (~25 % du code)
 
 |Élément|Équipe|IA|
 |-|-|-|
-|Code JavaScript / HTML / CSS / Equipe = 75 % original / IA = 25 % débogage assisté
+|Code JavaScript / HTML / CSS / Equipe = 75 % original / IA = 30 % débogage assisté
 Niveaux et données réseau (LEVELS[]) /	Equipe = 100 % original	/ IA = 0 %
-Contenu pédagogique (guide protocoles)	Equipe = 95 % original / IA = 5 % reformulation
+Contenu pédagogique (guide protocoles)	Equipe = 95 % original / IA = 9 % reformulation
 Visuels / rendu canvas	/ Equipe = 100 % original / IA = 0 %
-Scénario / game design	/ Equipe = 100 % original / IA = 0 %
+Scénario / game design	/ Equipe = 80 % original / IA = 20 %
 
 L'équipe certifie que le code, le scénario et le contenu pédagogique constituent une production originale, et que tous les usages de l'IA ont été limités, réfléchis et transparents.
 
