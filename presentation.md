@@ -104,7 +104,7 @@ Workik (Anthropic) — Aide au débogage (~30 % du code)
 Niveaux et données réseau (LEVELS[]) /	Equipe = 100 % original	/ IA = 0 %
 Contenu pédagogique (guide protocoles)	Equipe = 95 % original / IA = 9 % reformulation
 Visuels / rendu canvas	/ Equipe = 100 % original / IA = 0 %
-Scénario / game design	/ Equipe = 80 % original / IA = 20 %
+Scénario / game design	/ Equipe =70 % original / IA = 30 %
 
 L'équipe certifie que le code, le scénario et le contenu pédagogique constituent une production originale, et que tous les usages de l'IA ont été limités, réfléchis et transparents.
 
