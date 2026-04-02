@@ -1,4 +1,3 @@
-#MODELE_REQUIREMENTS
-geographiclib==2.1
-geopy==2.4.1
-gpxpy==1.6.2
+Aucune dépendance requise.
+RouteRush est un fichier HTML5 autonome.
+Ouvrir RouteRush.html dans un navigateur suffit.
