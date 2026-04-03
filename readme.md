@@ -20,11 +20,13 @@ RouteRush est un jeu éducatif de simulation de routage réseau développé en H
 ## Installation
 
 open RouteRush.html
+ou sinon routex_jeu(1).py
 
 ## Structure du projet
 
 ```
 RouteRush.html     → Fichier unique contenant HTML, CSS et JavaScript
+routex_jeu(1).py   → Code python employer
 README.md          → Présentation du projet
 docs/              → Dossier technique PDF
 ```
@@ -56,3 +58,5 @@ HTML5
 CSS3
 
 JavaScript (Canvas API, sans framework ni dépendance externe)
+
+Thonny et Pyhton
